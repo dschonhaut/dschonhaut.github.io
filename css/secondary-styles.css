@@ -1,0 +1,14 @@
+.blurb-small-font {
+font-size: .8em;
+}
+
+.profile-pic{
+width: 250px;
+
+float:left;
+padding: 0px 25px 10px 0px;
+}
+
+.profile-pic img{
+width 100%
+}
